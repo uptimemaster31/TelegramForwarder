@@ -1,0 +1,46 @@
+{
+    "telegram": {
+        "api_id": 0,
+        "api_hash": "",
+        "phone": ""
+    },
+
+    "converter_bot": "@DW2DW_LinkConverterBot",
+
+    "settings": {
+        "workers": 20,
+        "retry_attempts": 3,
+        "delay_between_posts": 1,
+        "response_timeout": 120
+    },
+
+    "footer": "<b>👇𝑨𝑳𝑳 CHANNEL 𝑷𝑶𝑺𝑻𝑺 👇</b>\n\nhttps://t.me/+KSJyYXcaR70zODc1\n\n▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▰",
+
+    "channels": [
+        {
+            "source": "",
+            "destination": "",
+            "process_old": true
+        },
+        {
+            "source": "",
+            "destination": "",
+            "process_old": true
+        },
+        {
+            "source": "",
+            "destination": "",
+            "process_old": true
+        },
+        {
+            "source": "",
+            "destination": "",
+            "process_old": false
+        },
+        {
+            "source": "",
+            "destination": "",
+            "process_old": false
+        }
+    ]
+}
